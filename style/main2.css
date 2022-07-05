@@ -1,0 +1,108 @@
+*{
+
+    margin:0px ;
+    padding:0px ;
+}
+
+#navbar{
+    background-color: rgb(97, 92, 88);
+    /*height: 100px;*/
+}
+.logo{
+    color: aliceblue;
+    float: left;
+    margin-left: 40px;
+    margin-top: 15px;
+    font-size: 30px;
+    text-transform: capitalize;
+    
+}
+.nav{
+    color: aliceblue;
+    font-size: 20px;
+    float: right;
+    margin-right: 40px;
+    margin-top: 15px;
+    border: 1px solid black;
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-color: rgb(40, 82, 119);
+    margin-bottom: 15px;
+}
+.clear{
+    clear: both;
+}
+.img{
+    width: 80%;
+    height: 400px;
+    margin-left: 10%;
+    margin-top: 100px;
+}
+.artical{
+    margin-top: 50px;
+    margin-left: 40px;
+
+}
+.artical h1{
+    font-weight: 100;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+.artical p{
+    width: 60%;
+    opacity: 0.7;
+    
+}
+.hp{
+    float: left;
+    width: 30%;
+
+}
+.hp1{
+    float: left;
+    width: 30%;
+
+    
+}
+.artical .hp h1{
+    font-size: 15px;
+
+}
+.artical .hp p{
+    font-size: 10px;
+
+}
+.hp img{
+    width: 50px;
+    height: 50px;
+}
+.artical .hp1 h1{
+    font-size: 15px;
+}
+.artical .hp1 p{
+    font-size: 10px;
+
+}
+.a{
+    color: rgb(239, 244, 248);
+    font-size: 20px;
+    float: right;
+    margin-right: 40px;
+    margin-top: 15px;
+    border: 1px solid black;
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-color: rgb(3, 13, 21);
+    margin-bottom: 15px;
+    transition: 4s;
+   
+
+}
+a:hover{
+    color: brown;
+    opacity: 1;
+    border-radius: 10px;
+    background-color: rgb(250, 242, 242);
+   
+    
+}
